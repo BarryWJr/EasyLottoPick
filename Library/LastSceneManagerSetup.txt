@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lotto/scene/lottoScene.unity
+  isLoaded: 1
+  isActive: 1
